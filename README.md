@@ -4,7 +4,7 @@ Add and remove visual profile badges on your own Discord account — **100% clie
 
 Right-click your own profile → **Edit Badges**. This opens an editor with a badge list, click-to-toggle switches, and a live preview.
 
-Every badge is available: Discord Staff, Partnered Server Owner, Moderator Programs Alumni, Early Supporter, Active Developer, Early Verified Bot Developer, Bug Hunter (and Golden), all four HypeSquad badges, Quests, Legacy Username, Orbs, the limited-time Clown, Supports Commands, Premium App, Uses AutoMod, every Nitro tier (Bronze through Opal), and every Server Booster level (1 month to 24 months).
+Every official Discord profile badge is included — see [Included badges](#included-badges) below.
 
 > [!IMPORTANT]
 > **Only you can see these badges.** They are purely visual and show up only in your own client.
@@ -12,6 +12,55 @@ Every badge is available: Discord Staff, Partnered Server Owner, Moderator Progr
 
 > [!WARNING]
 > **Honestly? I hate this plugin.** I only made it to please people. **If this thing breaks, I'm not fixing it.** No support, no updates. Use it as-is.
+
+## Included badges
+
+All 37 official Discord profile badges that have a real Discord icon:
+
+**Staff & Bug Hunters**
+- Discord Staff
+- Discord Bug Hunter
+- Discord Golden Bug Hunter
+
+**Partner, Mod & Developers**
+- Partnered Server Owner
+- Moderator Programs Alumni
+- Active Developer
+- Early Verified Bot Developer
+- Early Supporter
+
+**HypeSquad**
+- HypeSquad Events
+- HypeSquad Bravery
+- HypeSquad Brilliance
+- HypeSquad Balance
+
+**Nitro**
+- Discord Nitro
+- Nitro Bronze, Silver, Gold, Platinum, Diamond, Emerald, Ruby, Opal
+
+**Server Booster**
+- 1, 2, 3, 6, 9, 12, 15, 18 and 24 months
+
+**Bot**
+- Supports Commands
+- Premium App
+- Uses AutoMod
+
+**Other**
+- Discord Quests
+- Legacy Username ("Originally Known As")
+- Orbs
+- A Clown, For a Limited Time
+
+> [!NOTE]
+> Server badges, username flairs (Bot / System / AI / OP / Webhook) and clan tags are **not** profile badges, so they can't be shown here.
+
+Badge list verified against:
+
+- [Badges — Discord Wiki (Fandom)](https://discord.fandom.com/wiki/Badges)
+- [Official Discord Badges — Discord Resources](https://discordresources.com/resources/official-badges/)
+- [mezotv/discord-badges](https://github.com/mezotv/discord-badges)
 
 ## Why this plugin exists
 
