@@ -10,6 +10,9 @@ Every badge is available: Discord Staff, Partnered Server Owner, Moderator Progr
 > **Only you can see these badges.** They are purely visual and show up only in your own client.
 > The plugin **does not change your account**, **never touches your token**, and **sends nothing** to Discord or any server. Other users never see them.
 
+> [!WARNING]
+> **Honestly? I hate this plugin.** I only made it to please people. **If this thing breaks, I'm not fixing it.** No support, no updates. Use it as-is.
+
 ## Why this plugin exists
 
 I **don't** like the idea of faking things you don't actually have. I made this as an **honest, safe alternative** to what clients like **Nightcord** sell.
